@@ -4,8 +4,10 @@
 tap homebrew/core
 brew autoconf
 brew automake
+brew bash-completion
 brew boost
 brew boost-python
+brew brew-cask-completion
 brew cairo
 brew cmake
 brew coreutils
@@ -53,6 +55,7 @@ brew mas
 brew maven
 brew md5sha1sum
 brew mpfr
+brew ncurses
 brew nethogs
 brew netpbm
 brew nodebrew
@@ -68,6 +71,7 @@ brew pandoc
 brew pbzip2
 brew pcre
 brew pcre2
+brew pdf2svg
 brew perl
 brew pixman
 brew pkg-config
@@ -101,22 +105,39 @@ tap homebrew/bundle
 
 tap homebrew/cask
 cask 1password
+cask alfred
 cask amazon-music
+cask avogadro
 cask cheatsheet
+cask dash
 cask docker
+cask docker-toolbox
 cask dropbox
+cask duet
 cask evernote
+cask expressions
 cask geektool
+cask gitup
 cask google-chrome
+cask grammarly
 cask keyboardcleantool
+cask kindle
+cask marginnote
 cask mendeley-desktop
+cask mendeley-reference-manager
 cask microsoft-office
+cask onedrive
 cask papers
+cask skype
 cask slack
 cask sourcetree
+cask station
 cask teamviewer
+cask typora
 cask vagrant
+cask vagrant-manager
 cask virtualbox
+cask visual-studio-code
 cask xquartz
 
 tap argon/mas
@@ -141,33 +162,15 @@ brew modeller
 
 tap sinclairtarget/wst
 
-# Other Cask applications
-cask alfred
-cask avogadro
-cask dash
-cask docker-toolbox
-cask duet
-cask expressions
-cask gitup
-cask grammarly
-cask kindle
-cask mendeley-reference-manager
-cask onedrive
-cask skype
-cask station
-cask typora
-cask vagrant-manager
-cask visual-studio-code
-
 # App Store applications
 appstore 768053424 Gapplin (1.6.2)
 appstore 441258766 Magnet (2.4.5)
-appstore 1295203466 Microsoft Remote Desktop (10.3.6)
+appstore 1295203466 Microsoft Remote Desktop (10.3.7)
 appstore 992076693 MindNode (2.5.8)
 appstore 408265505 PinPoint (3.7.17)
-appstore 880001334 Reeder (3.2.2)
-appstore 1449412482 Reeder (4.2.1)
+appstore 880001334 Reeder (3.2.3)
+appstore 1449412482 Reeder (4.2.2)
 appstore 425424353 The Unarchiver (4.1.0)
-appstore 904280696 Things (3.10.1)
-appstore 497799835 Xcode (11.2.1)
+appstore 904280696 Things (3.11.1)
+appstore 497799835 Xcode (11.3)
 appstore 1037994372 ライトクリーナー (2.2.2)
