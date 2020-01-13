@@ -154,7 +154,6 @@ cask kindle
 cask mendeley-reference-manager
 cask onedrive
 cask skype
-cask sourcetrail
 cask station
 cask typora
 cask vagrant-manager
