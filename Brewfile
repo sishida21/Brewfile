@@ -106,14 +106,12 @@ tap homebrew/bundle
 tap homebrew/cask
 cask 1password
 cask alfred
-cask amazon-music
 cask avogadro
 cask cheatsheet
 cask dash
 cask docker
 cask docker-toolbox
 cask dropbox
-cask duet
 cask evernote
 cask expressions
 cask geektool
@@ -127,7 +125,6 @@ cask mendeley-desktop
 cask mendeley-reference-manager
 cask microsoft-office
 cask onedrive
-cask papers
 cask skype
 cask slack
 cask sourcetree
@@ -168,9 +165,8 @@ appstore 441258766 Magnet (2.4.5)
 appstore 1295203466 Microsoft Remote Desktop (10.3.7)
 appstore 992076693 MindNode (2.5.8)
 appstore 408265505 PinPoint (3.7.17)
-appstore 880001334 Reeder (3.2.3)
 appstore 1449412482 Reeder (4.2.2)
 appstore 425424353 The Unarchiver (4.1.0)
 appstore 904280696 Things (3.11.1)
-appstore 497799835 Xcode (11.3)
+appstore 497799835 Xcode (11.3.1)
 appstore 1037994372 ライトクリーナー (2.2.2)
