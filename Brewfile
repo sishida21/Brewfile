@@ -109,6 +109,7 @@ cask alfred
 cask avogadro
 cask cheatsheet
 cask dash
+cask deepl
 cask docker
 cask docker-toolbox
 cask dropbox
