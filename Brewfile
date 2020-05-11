@@ -141,6 +141,7 @@ cask kindle
 cask marginnote
 cask mendeley-reference-manager
 cask microsoft-office
+cask mongodb-compass
 cask onedrive
 cask skype
 cask slack
