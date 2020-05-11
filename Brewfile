@@ -53,7 +53,6 @@ brew lua
 brew lzo
 brew mas
 brew maven
-brew md5sha1sum
 brew mpfr
 brew ncurses
 brew nethogs
