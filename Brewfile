@@ -88,7 +88,6 @@ brew pyenv
 brew pyenv-virtualenv
 brew pyqt
 brew python
-brew python@3.8
 brew qt
 brew rbenv
 brew readline
@@ -142,7 +141,6 @@ cask marginnote
 cask mendeley-reference-manager
 cask microsoft-office
 cask mongodb-compass
-cask onedrive
 cask skype
 cask slack
 cask sourcetree
@@ -156,10 +154,6 @@ cask visual-studio-code
 cask xquartz
 
 tap argon/mas
-
-tap brewsci/bio
-brew mmtf-cpp
-brew pymol
 
 tap caskroom/versions
 
@@ -179,9 +173,6 @@ brew ifort-runtime
 brew modeller
 
 tap sinclairtarget/wst
-
-# Other Homebrew packages
-brew python@2
 
 # Other Cask applications
 cask mendeley-desktop
