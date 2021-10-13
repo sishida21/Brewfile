@@ -143,14 +143,12 @@ cask microsoft-office
 cask mongodb-compass
 cask skype
 cask slack
-cask sourcetree
 cask station
 cask teamviewer
 cask typora
 cask vagrant
 cask vagrant-manager
 cask virtualbox
-cask visual-studio-code
 cask xquartz
 
 tap argon/mas
@@ -175,10 +173,9 @@ brew modeller
 tap sinclairtarget/wst
 
 # Other Cask applications
-cask mendeley-desktop
+cask mendeley
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.5)
 appstore 1402042596 AdBlock (1.23.0)
 appstore 1481669779 Evernote Web Clipper (1.0.5)
 appstore 768053424 Gapplin (1.6.2)
