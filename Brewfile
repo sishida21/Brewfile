@@ -291,10 +291,8 @@ tap rcmdnk/rcmdnkpac
 brew screenutf8 --utf8
 
 tap salilab/salilab
-brew hdf5@1.10.5
 brew hdf5@1.10.6
 brew hdf5@1.10.7
-brew hdf5@1.8.20
 brew ifort-runtime
 brew modeller
 
@@ -303,19 +301,19 @@ tap sinclairtarget/wst
 # App Store applications
 appstore 1402042596  AdBlock                (1.28.2)
 appstore 1450950860  CommentScreen          (1.1.4)
-appstore 768053424   Gapplin                (1.6.3)
+appstore 768053424   Gapplin                (2.1.0)
+appstore 682658836   GarageBand             (10.4.6)
 appstore 1462114288  Grammarly for Safari   (9.63)
-appstore 408981434   iMovie                 (10.2.5)
-appstore 409183694   Keynote                (11.1)
+appstore 408981434   iMovie                 (10.3.3)
+appstore 409183694   Keynote                (12.0)
 appstore 441258766   Magnet                 (2.10.0)
 appstore 1577516695  Mendeley Web Importer  (3.2.78)
 appstore 992076693   MindNode               (2.5.8)
-appstore 409203825   Numbers                (11.1)
-appstore 409201541   Pages                  (11.1)
-appstore 408265505   PinPoint               (3.7.17)
+appstore 409203825   Numbers                (12.0)
+appstore 409201541   Pages                  (12.0)
 appstore 1449412482  Reeder                 (4.2.8)
 appstore 1429033973  RunCat                 (9.7)
 appstore 425424353   The Unarchiver         (4.3.5)
 appstore 904280696   Things                 (3.16.2)
 appstore 1384080005  Tweetbot               (3.5.8)
-appstore 497799835   Xcode                  (12.4)
+appstore 497799835   Xcode                  (14.2)
