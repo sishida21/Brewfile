@@ -300,9 +300,6 @@ brew modeller
 
 tap sinclairtarget/wst
 
-# Other Cask applications
-cask font-source-han-code-jp
-
 # App Store applications
 appstore 1402042596  AdBlock                (1.28.2)
 appstore 1450950860  CommentScreen          (1.1.4)
