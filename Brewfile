@@ -306,10 +306,8 @@ cask font-source-han-code-jp
 
 # App Store applications
 appstore 1402042596  AdBlock                (1.28.2)
-appstore 512464723   AS Timer               (5.3.1)
 appstore 1450950860  CommentScreen          (1.1.4)
 appstore 768053424   Gapplin                (1.6.3)
-appstore 682658836   GarageBand             (10.3.5)
 appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.2.5)
 appstore 409183694   Keynote                (11.1)
