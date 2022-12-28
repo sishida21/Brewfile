@@ -270,6 +270,7 @@ cask docker
 cask dropbox
 cask expressions
 cask google-chrome
+cask google-japanese-ime
 cask grammarly
 cask karabiner-elements
 cask keyboardcleantool
