@@ -276,13 +276,13 @@ cask karabiner-elements
 cask keyboardcleantool
 cask kindle
 cask marginnote
-cask mendeley-reference-manager
 cask microsoft-auto-update
 cask mmhmm
 cask notion
 cask slack
 cask typora
 cask visual-studio-code
+cask warp
 cask xquartz
 
 tap rcmdnk/file
@@ -308,7 +308,6 @@ appstore 1462114288  Grammarly for Safari   (9.63)
 appstore 408981434   iMovie                 (10.3.3)
 appstore 409183694   Keynote                (12.0)
 appstore 441258766   Magnet                 (2.10.0)
-appstore 1577516695  Mendeley Web Importer  (3.2.78)
 appstore 992076693   MindNode               (2.5.8)
 appstore 409203825   Numbers                (12.0)
 appstore 409201541   Pages                  (12.0)
